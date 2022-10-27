@@ -1,0 +1,4 @@
+# api/fixtures/user.yaml
+App\Entity\User:
+    user_{1..100}:
+        name: <name()>
