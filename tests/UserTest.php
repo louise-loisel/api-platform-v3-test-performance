@@ -264,4 +264,166 @@ class UserTest extends ApiTestCase
         $this->assertResponseHeaderSame('content-type', 'application/ld+json; charset=utf-8');
 
     }
+    public function testGetCollection31(): void
+    {
+        $response = static::createClient()->request('GET', '/api/users');
+
+        $this->assertResponseIsSuccessful();
+        $this->assertResponseHeaderSame('content-type', 'application/ld+json; charset=utf-8');
+
+    }
+    public function testGetCollection32(): void
+    {
+        $response = static::createClient()->request('GET', '/api/users');
+
+        $this->assertResponseIsSuccessful();
+        $this->assertResponseHeaderSame('content-type', 'application/ld+json; charset=utf-8');
+
+    }
+    public function testGetCollection33(): void
+    {
+        $response = static::createClient()->request('GET', '/api/users');
+
+        $this->assertResponseIsSuccessful();
+        $this->assertResponseHeaderSame('content-type', 'application/ld+json; charset=utf-8');
+
+    }
+    public function testGetCollection34(): void
+    {
+        $response = static::createClient()->request('GET', '/api/users');
+
+        $this->assertResponseIsSuccessful();
+        $this->assertResponseHeaderSame('content-type', 'application/ld+json; charset=utf-8');
+
+    }
+    public function testGetCollection35(): void
+    {
+        $response = static::createClient()->request('GET', '/api/users');
+
+        $this->assertResponseIsSuccessful();
+        $this->assertResponseHeaderSame('content-type', 'application/ld+json; charset=utf-8');
+
+    }
+    public function testGetCollection36(): void
+    {
+        $response = static::createClient()->request('GET', '/api/users');
+
+        $this->assertResponseIsSuccessful();
+        $this->assertResponseHeaderSame('content-type', 'application/ld+json; charset=utf-8');
+
+    }
+    public function testGetCollection37(): void
+    {
+        $response = static::createClient()->request('GET', '/api/users');
+
+        $this->assertResponseIsSuccessful();
+        $this->assertResponseHeaderSame('content-type', 'application/ld+json; charset=utf-8');
+
+    }
+    public function testGetCollection38(): void
+    {
+        $response = static::createClient()->request('GET', '/api/users');
+
+        $this->assertResponseIsSuccessful();
+        $this->assertResponseHeaderSame('content-type', 'application/ld+json; charset=utf-8');
+
+    }
+    public function testGetCollection39(): void
+    {
+        $response = static::createClient()->request('GET', '/api/users');
+
+        $this->assertResponseIsSuccessful();
+        $this->assertResponseHeaderSame('content-type', 'application/ld+json; charset=utf-8');
+
+    }
+    public function testGetCollection40(): void
+    {
+        $response = static::createClient()->request('GET', '/api/users');
+
+        $this->assertResponseIsSuccessful();
+        $this->assertResponseHeaderSame('content-type', 'application/ld+json; charset=utf-8');
+
+    }
+    public function testGetCollection41(): void
+    {
+        $response = static::createClient()->request('GET', '/api/users');
+
+        $this->assertResponseIsSuccessful();
+        $this->assertResponseHeaderSame('content-type', 'application/ld+json; charset=utf-8');
+
+    }
+    public function testGetCollection42(): void
+    {
+        $response = static::createClient()->request('GET', '/api/users');
+
+        $this->assertResponseIsSuccessful();
+        $this->assertResponseHeaderSame('content-type', 'application/ld+json; charset=utf-8');
+
+    }
+    public function testGetCollection43(): void
+    {
+        $response = static::createClient()->request('GET', '/api/users');
+
+        $this->assertResponseIsSuccessful();
+        $this->assertResponseHeaderSame('content-type', 'application/ld+json; charset=utf-8');
+
+    }
+    public function testGetCollection44(): void
+    {
+        $response = static::createClient()->request('GET', '/api/users');
+
+        $this->assertResponseIsSuccessful();
+        $this->assertResponseHeaderSame('content-type', 'application/ld+json; charset=utf-8');
+
+    }
+    public function testGetCollection45(): void
+    {
+        $response = static::createClient()->request('GET', '/api/users');
+
+        $this->assertResponseIsSuccessful();
+        $this->assertResponseHeaderSame('content-type', 'application/ld+json; charset=utf-8');
+
+    }
+    public function testGetCollection46(): void
+    {
+        $response = static::createClient()->request('GET', '/api/users');
+
+        $this->assertResponseIsSuccessful();
+        $this->assertResponseHeaderSame('content-type', 'application/ld+json; charset=utf-8');
+
+    }
+    public function testGetCollection47(): void
+    {
+        $response = static::createClient()->request('GET', '/api/users');
+
+        $this->assertResponseIsSuccessful();
+        $this->assertResponseHeaderSame('content-type', 'application/ld+json; charset=utf-8');
+
+    }
+    public function testGetCollection48(): void
+    {
+        $response = static::createClient()->request('GET', '/api/users');
+
+        $this->assertResponseIsSuccessful();
+        $this->assertResponseHeaderSame('content-type', 'application/ld+json; charset=utf-8');
+
+    }
+    public function testGetCollection49(): void
+    {
+        $response = static::createClient()->request('GET', '/api/users');
+
+        $this->assertResponseIsSuccessful();
+        $this->assertResponseHeaderSame('content-type', 'application/ld+json; charset=utf-8');
+
+    }
+    public function testGetCollection50(): void
+    {
+        $response = static::createClient()->request('GET', '/api/users');
+
+        $this->assertResponseIsSuccessful();
+        $this->assertResponseHeaderSame('content-type', 'application/ld+json; charset=utf-8');
+
+    }
+    
+
 }
